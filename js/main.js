@@ -8,11 +8,16 @@ class ChannelObject {
 }
 
 const channels = [
+	new ChannelObject("img/Recursion.png", "我らがRecursionの動画チャンネル.", "https://www.youtube.com/c/Recursion-cs/videos"),
 	new ChannelObject("img/KLeIn.png", "インフラ関係の技術について分かりやすく説明してくれるチャンネル.", "https://www.youtube.com/channel/UCI2HUZx-Ch6oc96o7BQ9JLQ"),
-	new ChannelObject("img/TECHWORLD.png", "メガベンチャーに勤務するエンジニアがVlogやオススメの参考書を紹介してくれるチャンネル.", "https://www.youtube.com/c/TECHWORLD111/videos"),
+	new ChannelObject("img/TECHWORLD.png", "メガベンチャーエンジニアがVlogやオススメの参考書を紹介してくれるチャンネル.", "https://www.youtube.com/c/TECHWORLD111/videos"),
 	new ChannelObject("img/sapu.png", "Pythonを学ぶならこのチャンネルというくらい内容が充実しているチャンネル.", "https://www.youtube.com/channel/UC5Kgc_HNzx4GJ-w4QMeeKiQ/videos"),
 	new ChannelObject("img/sasshii.png", "海外留学をした元MicrosoftのエンジニアがCSや海外技術について語ってくれるチャンネル.", "https://www.youtube.com/channel/UClxDs-wxR4dOZjbrI5V-1uA/videos"),
 	new ChannelObject("img/lowLayerGirls.png", "Googleの女性エンジニア2名が低レイヤーの技術に関して生配信するチャンネル.", "https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ/videos"),
+	new ChannelObject("img/sangramerTV.png", "元メガベンチャーエンジニアがWebエンジニア転職に必要な技術を紹介してくれるチャンネル.", "https://www.youtube.com/channel/UC6esZmghBjwtgW8lts92-sQ/videos"),
+	new ChannelObject("img/JoichiIto.png", "元MITメディラボ所長の伊藤氏がweb3など最新のIT業界について話してくれるチャンネル.", "https://www.youtube.com/c/JoichiIto/videos"),
+	new ChannelObject("img/imanyu.png", "Udemy講座などを数多く持ついまにゅ氏がPythonの技術などを紹介してくれるチャンネル.", "https://www.youtube.com/c/%E3%81%84%E3%81%BE%E3%81%AB%E3%82%85%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%A1%BE/videos"),
+	new ChannelObject("img/freecodecamp.png", "アメリカで始まったプログラミング学習コミュニティのfreeCodeCampの動画チャンネル.", "https://www.youtube.com/c/Freecodecamp/videos"),
 ]
 
 // ボタンセクション作成
